@@ -1,0 +1,7 @@
+item_1 = input("Please enter your favourite food ")
+item_2 = input("Please enter your second favourite food ")
+item_3 = input("Please enter your 3rd favourite food ")
+print("Your favourite foods are...")
+print(item_1)
+print(item_2)
+print(item_3)
